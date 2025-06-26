@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+
+<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainF4Ky9ZqB2' class='gcw_mainF4Ky9ZqB2'></div>
+<a id='gcw_siteF4Ky9ZqB2' href='https://freecurrencyrates.com/en/'>FreeCurrencyRates.com</a>
+<script>function reloadF4Ky9ZqB2(){ var sc = document.getElementById('scF4Ky9ZqB2');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scF4Ky9ZqB2';sc.src = 'https://freecurrencyrates.com/en/widget-vertical?iso=USD-EUR-BRL-CNY&df=2&p=F4Ky9ZqB2&v=fi&source=fcr&width=130&width_title=0&firstrowvalue=1&thm=666666,000000,333333,333333,FFFFFF,666666,555555,ffffff,ffffff&title=Currency%20Converter&tzo=180';var div = document.getElementById('gcw_mainF4Ky9ZqB2');div.parentNode.insertBefore(sc, div);} reloadF4Ky9ZqB2(); </script>
+<!-- put custom styles here: .gcw_mainF4Ky9ZqB2{}, .gcw_headerF4Ky9ZqB2{}, .gcw_ratesF4Ky9ZqB2{}, .gcw_sourceF4Ky9ZqB2{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
+
+</body>
+
+</html>
